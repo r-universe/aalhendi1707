@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "countToFPKM"]
+	path = countToFPKM
+	url = https://github.com/aalhendi1707/counttofpkm
+	shallow = true
+	registered = true
